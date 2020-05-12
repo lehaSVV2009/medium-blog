@@ -11,7 +11,7 @@ module.exports = {
   author: 'Alex Soroka',
   githubUrl: 'https://github.com/lehaSVV2009/medium-blog',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'https://lehasvv2009.netlify.app/',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: '',
