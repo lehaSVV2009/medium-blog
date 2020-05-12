@@ -10,5 +10,11 @@ module.exports = {
         webmentionsToken: process.env.WEBMENTIONS_TOKEN,
       },
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: config.gaCode || '',
+      },
+    },
   ],
 }

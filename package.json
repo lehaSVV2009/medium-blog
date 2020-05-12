@@ -3,13 +3,14 @@
   "private": true,
   "description": "",
   "version": "0.1.0",
-  "author": "Alex Soroka <lehasvv2009@gmail.com>",
+  "author": "Aliaksei Saroka <lehasvv2009@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lehaSVV2009/medium-blog.git"
   },
   "dependencies": {
     "gatsby": "^2.13.13",
+    "gatsby-plugin-google-analytics": "^2.3.1",
     "gatsby-theme-medium-to-own-blog": "^0.2.14",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
